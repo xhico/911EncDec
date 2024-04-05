@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 # !/usr/bin/python3
 
-import os
 import base64
+import os
 
 
 def enc911(file_path):
